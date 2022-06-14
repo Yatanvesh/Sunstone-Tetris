@@ -1,8 +1,6 @@
-#board {
-  margin: 10px auto;
-  text-align: center;
+body {
+  background: black;
 }
-
 #board canvas {
   border: 1px solid #000;
   background-color: #000;
